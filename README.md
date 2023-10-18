@@ -1,4 +1,3 @@
-# Task-Vig
 
 This microservice contains some APIs to create, get and delete school info-- Task.
 
