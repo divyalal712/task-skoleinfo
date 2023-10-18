@@ -1,5 +1,5 @@
 
-This microservice contains some APIs to create, get and delete school info-- Task.
+This microservice contains some APIs to create, get and delete skole info-- Task.
 
 #Prerequisites
 Before you begin, ensure you have the following installed:
@@ -12,7 +12,7 @@ Before you begin, ensure you have the following installed:
 ####Build and run the Spring Boot application:
 1. ./gradlew build - for building the backend application
 2. ./gradlew bootRun - to run the application or to start the server from terminal or
-3. run the class in which main method exist which is VigoTaskApplication.java.
+3. run the class in which main method exist which is Application.java.
 
 By default the server will be up and running on port 8080.
 
